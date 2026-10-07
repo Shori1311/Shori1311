@@ -35,4 +35,4 @@ GoKinder and GoFitness (React web apps and hybrid Android apps published on Goog
 
 ## Contact
 
-shorry.us@gmail.com
+shorry.us@gmail.com · [LinkedIn](https://www.linkedin.com/in/uro%C5%A1-simonovi%C4%87-6271471b0/)
